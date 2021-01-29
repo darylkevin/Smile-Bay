@@ -11,6 +11,8 @@ header_menu: true
 
 ##### Professional Experience
 
-A lot, but let us get into the details with some lorem ipsum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent feugiat lectus et magna placerat tincidunt. Nullam sit amet lectus vitae elit mollis rhoncus non eget lorem. Ut tempor sed dui quis volutpat.
+Schoolmates and friends turned professional partners, Dr. Richelle and Dr. Rizael opened Smile Bay Dental Clinic to cater affordable and high quality dentistry for residents of San Pedro, Laguna and nearby communities. 
 
-In ultrices, est at lobortis pretium, magna quam mollis neque, id viverra odio est sit amet lorem. Mauris efficitur nunc vel lectus porttitor, sit amet sodales quam eleifend. Duis et felis ut mauris dignissim efficitur. Aliquam non sem eros. Integer elit ante, bibendum id hendrerit vitae, vestibulum eget risus. Nunc efficitur nisl in iaculis vestibulum.
+We both graduated from the University of the Philippines College of Dentistry and then ventured out into post-graduate training for Orthodontics, Endodontics, Restorative, and Esthetic Dentistry. 
+
+Our practice revolves around General Dentistry with a network of on-call specialists for Pediatric Dentistry, Oral Surgery, Implants, and Temporomandibular Joint Disorder Management.
