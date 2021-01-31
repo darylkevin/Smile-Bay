@@ -4,12 +4,12 @@ weight: 3
 header_menu: true
 ---
 
-![Richelle Ramirez](images/richi-ramirez.png)
+##### We're your friendly neighborhood dentists!
 
+![Richelle Ramirez](images/richi-ramirez.png)
 
 ![Rizael Castro](images/rizael-castro.png)
 
-##### Professional Experience
 
 Schoolmates and friends turned professional partners, Dr. Richelle and Dr. Rizael opened Smile Bay Dental Clinic to cater affordable and high quality dentistry for residents of San Pedro, Laguna and nearby communities. 
 
