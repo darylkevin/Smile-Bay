@@ -11,3 +11,4 @@ Let us get in touch!
 
 {{<icon class="fa fa-phone">}}&nbsp;[+63 917 132 3093](tel:+639171323093)
 
+{{<icon class="fa fa-facebook">}}&nbsp;[smilebayph](https://www.facebook.com/smilebayph)
