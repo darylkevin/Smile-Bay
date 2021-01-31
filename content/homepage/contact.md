@@ -1,11 +1,13 @@
 ---
-title: "Contact"
+title: "Contact Us"
 weight: 4
 header_menu: true
 ---
 
-{{<icon class="fa fa-envelope">}}&nbsp;[mail@janedoe.com](mailto:your-email@your-domain.com)
-
-{{<icon class="fa fa-phone">}}&nbsp;[+49 1111 555555](tel:+491111555555)
-
+For all your dental concerns, we're always here for you.
 Let us get in touch!
+
+{{<icon class="fa fa-envelope">}}&nbsp;[smilebayph@gmail.com](mailto:smilebayph@gmail.com)
+
+{{<icon class="fa fa-phone">}}&nbsp;[+63 917 132 3093](tel:+639171323093)
+
