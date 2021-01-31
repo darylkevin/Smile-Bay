@@ -4,21 +4,17 @@ weight: 2
 header_menu: true
 ---
 
-That is the important part, right? You want to know what I can do for you. This is why I put this right up there into the header menu of the website.
+Whatever you dental needs may be, we got you covered! We are offering a wide range of services to help you keep your teeth in perfect shape.
 
 ---
 
-## Dental Service 1
+## Consulation
 
-This is not an easy task. You will likely have to pay money for this. You know what - let us look at a nice picture first.
-
-![Nice picture to make you pay me ;-)](images/selective-focus-photography-of-pasta-with-tomato-and-basil-1279330.jpg)
-
-Wow. That was nice, right? Well, call me and let us talk.
+Short description. Photo maybe??
 
 ---
 
-## Dental Service 2
+## Tooth Extraction
 
 Did you see the picture above? I can show you how to go from
 
@@ -29,6 +25,72 @@ to
 ![Let us get started on a clean slate](images/woman-pouring-juice-on-glass-3184192.jpg)
 
 in estimated seconds.
+
+---
+
+## Oral Prophylaxis
+
+Short description. Photo maybe??
+
+---
+
+## Tooth Filling
+
+Short description. Photo maybe??
+
+---
+
+## Periapical Xray
+
+Short description. Photo maybe??
+
+---
+
+## Root Canal Treatment
+
+Short description. Photo maybe??
+
+---
+
+## Removable Denture
+
+Short description. Photo maybe??
+
+---
+
+## Jacket Crown
+
+Short description. Photo maybe??
+
+---
+
+## Porcelain Veneers
+
+Short description. Photo maybe??
+
+---
+
+## Complete Dentures
+
+Short description. Photo maybe??
+
+---
+
+## Teeth Whitening
+
+Short description. Photo maybe??
+
+---
+
+## Denture Repair
+
+Short description. Photo maybe??
+
+---
+
+## Pediatric Dentistry
+
+Short description. Photo maybe??
 
 ---
 
