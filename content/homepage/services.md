@@ -8,89 +8,87 @@ Whatever you dental needs may be, we got you covered! We are offering a wide ran
 
 ---
 
-## Consulation
+### Consulation
 
-Short description. Photo maybe??
 
----
-
-## Tooth Extraction
-
-Did you see the picture above? I can show you how to go from
-
-![Let us get started on a clean slate](images/board-bunch-cooking-food-349609.jpg)
-
-to
-
-![Let us get started on a clean slate](images/woman-pouring-juice-on-glass-3184192.jpg)
-
-in estimated seconds.
+A thorough clinical examination, diagnosis, and discussion for a specific dental concern or for a comprehensive dental rehabilitation. 
 
 ---
 
-## Oral Prophylaxis
+### Tooth Extraction
 
-Short description. Photo maybe??
 
----
+Surgical removal of infected, badly broken down, or fractured tooth.
 
-## Tooth Filling
-
-Short description. Photo maybe??
 
 ---
 
-## Periapical Xray
+### Oral Prophylaxis
 
-Short description. Photo maybe??
-
----
-
-## Root Canal Treatment
-
-Short description. Photo maybe??
+Dental cleaning to remove plaque, deposits, and stains.
 
 ---
 
-## Removable Denture
+### Tooth Filling
 
-Short description. Photo maybe??
-
----
-
-## Jacket Crown
-
-Short description. Photo maybe??
+Filling cavities or retreating old fillings using appropriate restorative materials.
 
 ---
 
-## Porcelain Veneers
+### Periapical Xray
 
-Short description. Photo maybe??
-
----
-
-## Complete Dentures
-
-Short description. Photo maybe??
+A small xray of your teeth used to check for cavities, infection, or bone level.
 
 ---
 
-## Teeth Whitening
+### Root Canal Treatment
 
-Short description. Photo maybe??
-
----
-
-## Denture Repair
-
-Short description. Photo maybe??
+Cleans out the infected nerve tissue to save the tooth.
 
 ---
 
-## Pediatric Dentistry
+### Fixed Bridge
 
-Short description. Photo maybe??
+For small gaps or missing spaces, a fixed bridge can be placed.
+
+---
+### Removable and Complete Dentures
+
+For several missing teeth or completely edentulous cases, dentures can be used to restore the smile.
+
+---
+
+### Denture Repair
+
+For cracked and loose dentures, repairing and relining can be an option to improve the fit.
+
+---
+### Jacket Crown
+
+A jacket crown or cap is used to cover extensively damaged teeth or discolored teeth.
+
+---
+
+### Porcelain Veneers
+
+Cosmetic procedure to improve the shape, shade, and alignment of the teeth by adding material using composite or  hatever you dental needs may be, we got you covered! We are offering a wide range of services to help you keep your teeth in perfect shape.
+
+---
+
+### Teeth Whitening
+
+Lighten stained teeth in one appointment.
+
+---
+
+### Orthotondic Treatment
+
+Correct the bite and alignment of crooked teeth using braces.
+
+---
+### Pediatric Dentistry
+
+Take care of your kid's teeth as early as possible. General Dentist and Specialist consult and treatments available
 
 ---
 
