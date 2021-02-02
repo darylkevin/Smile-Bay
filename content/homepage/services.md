@@ -8,7 +8,7 @@ Whatever you dental needs may be, we got you covered! We are offering a wide ran
 
 ---
 
-### Consulation
+### Consultation
 
 
 A thorough clinical examination, diagnosis, and discussion for a specific dental concern or for a comprehensive dental rehabilitation. 
@@ -69,9 +69,9 @@ A jacket crown or cap is used to cover extensively damaged teeth or discolored t
 
 ---
 
-### Porcelain Veneers
+### Veneers
 
-Cosmetic procedure to improve the shape, shade, and alignment of the teeth by adding material using composite or  hatever you dental needs may be, we got you covered! We are offering a wide range of services to help you keep your teeth in perfect shape.
+Cosmetic procedure to improve the shape, shade, and alignment of the teeth by adding material using composite or porcelain.
 
 ---
 
@@ -81,7 +81,7 @@ Lighten stained teeth in one appointment.
 
 ---
 
-### Orthotondic Treatment
+### Orthodontic Treatment
 
 Correct the bite and alignment of crooked teeth using braces.
 
