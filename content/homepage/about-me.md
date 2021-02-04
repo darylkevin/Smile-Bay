@@ -4,9 +4,10 @@ weight: 3
 header_menu: true
 ---
 
+##### We're your friendly neighborhood dentists!
+
 ![Smile Bay Team](images/meet-the-dentists.png)
 
-##### We're your friendly neighborhood dentists!
 
 ![Richelle Ramirez](images/richi-ramirez.png)
 
